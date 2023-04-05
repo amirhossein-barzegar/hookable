@@ -1,0 +1,6 @@
+File E:/Development/projects/courses-project/hookable/header.php does not exists!	[E:\Development\projects\courses-project\hookable\src\hook.php]
+Function addStylesToHeadefsdfsdr does not exists!	[E:\Development\projects\courses-project\hookable\src\hook.php]
+register_hfseader is an invalid hook!	[E:\Development\projects\courses-project\hookable\src\hook.php] 
+invalid is an invalid hook!	[E:\Development\projects\courses-project\hookable\src\hook.php] 
+invalid is an invalid hook!	[E:\Development\projects\courses-project\hookable\src\hook.php] 
+invalid is an invalid hook!	[E:\Development\projects\courses-project\hookable\src\hook.php] 

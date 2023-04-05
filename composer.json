@@ -1,0 +1,23 @@
+{
+    "name": "amirhossein/hookable",
+    "autoload": {
+        "psr-4": {
+            "Hookable\\": "src/",
+            "Plugins\\": "plugins/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amirhossein-barzegar",
+            "email": "barzegargit@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    }
+}
